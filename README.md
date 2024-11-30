@@ -1,5 +1,5 @@
 # mic-booster
-Program for Windows that helps automatically setup microfone volume level to 100
+Program for Windows that helps automatically setup microphone volume level to 100
 
 # Requirements
 * .NET 8.0
